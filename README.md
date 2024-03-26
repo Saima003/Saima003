@@ -1,3 +1,4 @@
+![logo](https://github.com/Saima003/Saima003/blob/main/Saima%20Khan%20(2).png)
 <h1 align="center">Hi 👋, I'm Saima Khan</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 

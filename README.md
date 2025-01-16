@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Frontend Technologies**
 
-- 🌱 I’m currently learning **Backend with Python and Golang**
+- 🌱 I’m currently learning **Backend with Python and NodeJs**
 
 - 💬 Ask me about **React, nextJs, redux, bootstrap, tailwind CSS, JS, HTML, Embedded C.**
 
